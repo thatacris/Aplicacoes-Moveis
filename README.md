@@ -1,6 +1,6 @@
 INTEGRANTES
 
-Alex Alves
+<p> Alex Alves </p>
 Cezar Augusto
 Gabriel Roberto
 Thais Cristina
