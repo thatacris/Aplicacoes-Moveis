@@ -1,7 +1,7 @@
 INTEGRANTES
 
 <p> Alex Alves </p>
-Cezar Augusto
-Gabriel Roberto
-Thais Cristina
-Thiago Chioquete
+<p> Cezar Augusto </p>
+<p> Gabriel Roberto </p>
+<p> Thais Cristina </p>
+<p> Thiago Chioquete </p>
